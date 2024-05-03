@@ -13,7 +13,7 @@ import IconMaterialCommunityIcons from 'react-native-vector-icons/MaterialCommun
 const users = [
   { id: 1, name: 'John Doe' },
   { id: 2, name: 'Jane Doe' },
-  { id: 3, name: 'Jordan Doe' },
+  { id: 3, name: 'Jordan Doe test' },
 ];
 
 const Home = ({ navigation }: any) => {
